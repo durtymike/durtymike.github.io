@@ -1,0 +1,85 @@
+  .header {
+    color: black;
+
+  }
+
+  .start {
+    color: black
+
+  }
+
+  .mark1 {
+    background-color: black;
+    position: absolute;
+    top: 50%;
+    right: 44%;
+    color: white;
+    padding: 10px
+
+  }
+
+    a {
+      color: White;
+      text-decoration: none;
+    }
+
+    .mark1:hover {
+      transform: scale(1.1);
+      }
+
+      .aboutus {
+        background-color: black;
+        color: white;
+        top: 10%;
+        right: 10%;
+      }
+
+      .mark2 {
+        background-color: black;
+        position: absolute;
+        top: 3%;
+        right: 2%;
+        color: white;
+        padding: 3.5px
+      }
+
+      .mark2:hover {
+        transform: scale(1.1);
+      }
+
+      .mark3 {
+        background-color: black;
+        position: absolute;
+        top: 3%;
+        right: 93.5%;
+        color: white;
+        padding: 3.5px
+      }
+
+      .mark3:hover {
+        transform: scale(1.1);
+      }
+
+      .mark4 {
+        background-color: black;
+        position: absolute;
+        top: 3%;
+        right: 84%;
+        color: white;
+        padding: 3.5px
+
+      }
+
+      .mark4:hover {
+        transform: scale(1.1);
+      }
+
+      img {
+        position: relative;
+        z-index:-1;
+        top: -21px;
+        right: 9px;
+        width: 108%;
+        height: 100%
+
+      }
